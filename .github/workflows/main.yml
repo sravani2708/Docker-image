@@ -9,6 +9,6 @@ jobs:
       
     steps:
        
-       -name: print a message
+       -name: Print a message
         run: echo "Hello, Doremon"
             
